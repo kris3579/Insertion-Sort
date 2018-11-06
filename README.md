@@ -1,9 +1,9 @@
-# Bracket Validation
+# Insertion Sort
 
 ## Challenge
 
-Write a function which takes in a string and and returns a map with a ket for every character and value of the number of instances of that character within the string.
+Write a function which takes an array and sorts it using the insertion method.
 
 ## Travis
 
-[![Build Status](https://travis-ci.com/kris3579/Code-Challenge-33.svg?branch=master)](https://travis-ci.com/kris3579/Code-Challenge-33)
+[![Build Status](https://travis-ci.com/kris3579/Insertion-Sort.svg?branch=master)](https://travis-ci.com/kris3579/Insertion-Sort)
